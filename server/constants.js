@@ -1,4 +1,8 @@
-exports.ENEMYDAMAGE = 34;
+//Enemy Attack Constants
+exports.HITRADIUS = 32;
+exports.HITDELAY = 300;
+exports.ENEMYDAMAGE = 20;
+
 exports.RIFLEDAMAGE = 50;
 exports.SHOTGUNDAMAGE = 34;
 exports.SNIPERDAMAGE = 100;
